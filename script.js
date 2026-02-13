@@ -1,12 +1,12 @@
 const gifStages = [
-    "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
-    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
+    "https://media.tenor.com/lfDATg4Bhc0AAAAM/happy-cat.gif",    // 0 normal
+    "https://media.tenor.com/14b3oQe1uw0AAAAM/cat-crying-cat.gif",  // 1 confused
+    "https://media1.tenor.com/m/0rPjitCLTt8AAAAC/cute-kitten.gif",             // 2 pleading
+    "https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUya2ttZWVjY2ZndDlncmR6ZjF0aHJ4bThwYmQ0dnYzNXhibWVwdjY0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3OhXBaoR1tVPW/giphy.gif",             // 3 sad
+    "https://i.makeagif.com/media/3-28-2022/UDwtxx.gif",       // 4 sadder
+    "https://media.tenor.com/sNwl8bDh1uAAAAAM/cat-upset-going-insane.gif",             // 5 devastated
+    "https://media.tenor.com/sVPaeSrkl6oAAAAM/cat-sad.gif",               // 6 very devastated
+    "https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydnJ0ZXo2N290c3RuczBzYTZ0aXVmbXA5bmxkOXVzN25wdTk1M3dwbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/901mxGLGQN2PyCQpoc/200.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
@@ -18,7 +18,7 @@ const noMessages = [
     "Please??? 💔",
     "Don't do this to me...",
     "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "You can't say No 😜"
 ]
 
 const yesTeasePokes = [
