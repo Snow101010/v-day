@@ -4,18 +4,18 @@ const gifStages = [
     "https://media1.tenor.com/m/0rPjitCLTt8AAAAC/cute-kitten.gif",             // 2 pleading
     "https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUya2ttZWVjY2ZndDlncmR6ZjF0aHJ4bThwYmQ0dnYzNXhibWVwdjY0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3OhXBaoR1tVPW/giphy.gif",             // 3 sad
     "https://i.makeagif.com/media/3-28-2022/UDwtxx.gif",       // 4 sadder
-    "https://media.tenor.com/sNwl8bDh1uAAAAAM/cat-upset-going-insane.gif",             // 5 devastated
+    "https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydnJ0ZXo2N290c3RuczBzYTZ0aXVmbXA5bmxkOXVzN25wdTk1M3dwbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/901mxGLGQN2PyCQpoc/200.gif",             // 5 devastated
     "https://media.tenor.com/sVPaeSrkl6oAAAAM/cat-sad.gif",               // 6 very devastated
-    "https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydnJ0ZXo2N290c3RuczBzYTZ0aXVmbXA5bmxkOXVzN25wdTk1M3dwbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/901mxGLGQN2PyCQpoc/200.gif"  // 7 crying runaway
+    "https://media.tenor.com/sNwl8bDh1uAAAAAM/cat-upset-going-insane.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
     "No",
-    "Are you positive? 🤔",
-    "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
-    "Please??? 💔",
+    "Are you sure? 🤔",
+    "Please... 🥺",
+    "You are making me sad...",
+    "Please Stop... 😢",
+    "Stop it.",
     "Don't do this to me...",
     "Last chance! 😭",
     "You can't say No 😜"
